@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Jogos',
+    'Qual dos personagens principais de The Last of us?',
+    'Ellie e Joel'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Filmes',
+    'Em como treinar seu dragão, qual o nome do pai do soluço?',
+    'Stoico'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Conhecimentos Gerais',
+    'Quantos litros de sangue tem uma pessoa em média?',
+    'De 4 a 6 litros de sangue'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Livros',
+    'Em percy jackson, qual o nome do puddle que o trio encontra no primeiro livro? ',
+    'Gladiola'
 )
